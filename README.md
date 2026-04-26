@@ -1,4 +1,4 @@
-# intro-to-git
+# INTRO TO GIT
 
 This is my first repository and i am making history today
 
