@@ -1,7 +1,5 @@
 # INTRO TO GIT
 
-This is my first repository and i am making history today
+This is my first repository
 
 today i have learnt introduction to git ang github.
-
-Wow! git is so cool.
